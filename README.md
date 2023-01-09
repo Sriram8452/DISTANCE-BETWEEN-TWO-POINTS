@@ -25,4 +25,4 @@ print(d)
 
 
 ### RESULT:
-The Program is executwed successfully
+The Program is executed successfully
