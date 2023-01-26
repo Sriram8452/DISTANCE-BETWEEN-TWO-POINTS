@@ -14,7 +14,7 @@ Print the result
 ## Step 5:
 End the program
 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula
  
 ### PROGRAM:
 ```
